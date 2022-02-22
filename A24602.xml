@@ -1,0 +1,673 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poor Robin, 1683 a prognostication for the year of our Lord God 1683 : containing the vulgar notes for this present years times when to marry a good wife if you can light of her, a description of the three eclipses of this year, two of the moon, and one of the sun, when they happen, and what it signified by them, a more accurate account of the four quarters of the year, than hath hitherto been given, a very useful scheme ...</title>
+            <author>Poor Robin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24602</idno>
+            <idno type="STC">Wing A2202</idno>
+            <idno type="STC">ESTC R5993</idno>
+            <idno type="EEBO-CITATION">12192461</idno>
+            <idno type="OCLC">ocm 12192461</idno>
+            <idno type="VID">55895</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55895)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 856:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poor Robin, 1683 a prognostication for the year of our Lord God 1683 : containing the vulgar notes for this present years times when to marry a good wife if you can light of her, a description of the three eclipses of this year, two of the moon, and one of the sun, when they happen, and what it signified by them, a more accurate account of the four quarters of the year, than hath hitherto been given, a very useful scheme ...</title>
+                  <author>Poor Robin.</author>
+                  <author>Winstanley, William, 1628?-1698.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The one and twentieth impression.</edition>
+               </editionStmt>
+               <extent>[14] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Company of Stationers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Poor Robin is a pseudonym for William Winstanley.  Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Ephemerides.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55895:1"/>
+            <p>
+               <hi>Poor Robin,</hi> 1683</p>
+            <p>A PROGNOSTICATION For the Year of our Lord God 1683.</p>
+            <p>Containing the Vulgar Notes for this preſent year; times when to marry a good Wife if you can light of her; a deſcription of the three Eclip<g ref="char:EOLhyphen"/>ſes of this year, two of the Moon, and one of the Sun, when they happen, and what is ſignified by them; a more accurate account of the four quar<g ref="char:EOLhyphen"/>ters of the year, than hath hitherto been given; a very uſeful Scheme, Aſs trologically and poeti<g ref="char:EOLhyphen"/>cally deſcribing and prognoſticating many weigh<g ref="char:EOLhyphen"/>ty matters; a deſcription of the twelve Signs of the Zodiack, and over what perſons they have dominion; with ſeveral other things, which when you have read them over, you will know as well as I.</p>
+            <lg>
+               <head>The one and twentieth Impreſſion.</head>
+               <l>This is the ſumm of our Prognoſtications,</l>
+               <l>Which we do ſend abroad unto the Nation;</l>
+               <l>And for the truth thereof, we do averr,</l>
+               <l>(As Papiſts of the Pope) we cannot err;</l>
+               <l>For thoſe who think themſelves herein are bitten,</l>
+               <l>May blame their faults for what herein is written.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed for the Company of Stationers, 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55895:2"/>
+            <div type="part">
+               <head>Vulgar Notes for this preſent Year 1683. ac<g ref="char:EOLhyphen"/>cording to the Julian or Engliſh account.</head>
+               <list>
+                  <item>The Golden Number— 12</item>
+                  <item>Cycle of the Sun— 12</item>
+                  <item>Do<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nical Letter — <hi>G</hi>
+                  </item>
+                  <item>Roman Indiction —6</item>
+                  <item>Epact — 12</item>
+                  <item>Number of Direction — 18</item>
+                  <item>Sundays after Epiphany — 4</item>
+                  <item>Septuageſima Sunday <hi>Feb.</hi>— 4</item>
+                  <item>Aſhwedneſday <hi>Feb.</hi> — 21</item>
+                  <item>Eaſter Day <hi>April</hi> — 8</item>
+                  <item>Rogation Sunday <hi>May</hi> — 13</item>
+                  <item>Aſcenſion Day <hi>May</hi>— 17</item>
+                  <item>Whitſunday <hi>May</hi> — 27</item>
+                  <item>Sundays after Trinity — 25</item>
+                  <item>Advent Sunday <hi>December</hi> — 2</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Times prohibiting Marriage.</head>
+               <p>MArriage comes in on the 13 of <hi>January,</hi> and by <hi>Sep<g ref="char:EOLhyphen"/>tuageſima</hi> Sunday it is out again, until the Octaves of <hi>Eaſter,</hi> or day after <hi>Low-Sunday;</hi> at which time it comes in again, and goes no more out till <hi>Rogation Sun<g ref="char:EOLhyphen"/>day:</hi> for <hi>Rogamen vetitat;</hi> from whence it is forbidden a<g ref="char:EOLhyphen"/>gain untill <hi>Trinity Sunday;</hi> from thence it is unforbidden till <hi>Advent Sunday,</hi> when it goes out, and comes not in again until S. <hi>Hilary,</hi> or 13 of <hi>January</hi> next following.</p>
+               <p>In thy choice of a Wife have a ſpecial care, for Wo<g ref="char:EOLhyphen"/>men are</p>
+               <lg>
+                  <l>
+                     <hi>The beſt of Goods, or elſe the worſt of Evils;</hi>
+                  </l>
+                  <l>
+                     <hi>Glorious Angels, or elſe curſed Devils.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <p>THE bright Planet <hi>Venus</hi> is our evening ſtar from the beginning of the year to the 24 of <hi>January,</hi> from thence ſhe becomes our Morning ſtar to the 27 of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi>
+                  <pb facs="tcp:55895:2"/>and from thence an Evening Star to the end of the year.</p>
+               <lg>
+                  <l>
+                     <hi>This with the other Stars are twinkling eyes,</hi>
+                  </l>
+                  <l>
+                     <hi>That with diſordered order gild the Skies.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Of the Eclipſes this preſent year. <hi>1683.</hi>
+               </head>
+               <p>THIS year produceth three Eclipſes, one of the Sun, and two of the Moon; that of the Sun (if the air be clear) will be viſible in our Engliſh Horizon, thoſe of the Moon, let the air be how it will, yet will they not be ſeen in <hi>England.</hi> However, having three E<g ref="char:EOLhyphen"/>cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſes, there will be ground work enough of them for Aſs trologers, thereby to calculate the fates of Kingdoms and Commonwealths; as alſo of ſeveral other things wor<g ref="char:EOLhyphen"/>thy a ſerious mans conſideration, as when it is leaſt dan<g ref="char:EOLhyphen"/>gerous for a Maſter to kiſs his Maid for fear of being e<g ref="char:EOLhyphen"/>ſpied by her Miſtreſs; whether it be beſt to do it behind a Door like <hi>J D</hi> or invite her to an Ale-houſe<g ref="char:punc">▪</g> to eat Cakes and drink Ale like <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>H</hi> By them alſo may be predicted when honeſty will come again in faſhion; whe<g ref="char:EOLhyphen"/>ther a young Wenches Maidenhead be within her or with<g ref="char:EOLhyphen"/>out her; and it within her, ſhe be not without her Maid<g ref="char:EOLhyphen"/>enhead; whether a blind Man can ſee beſt with Specta<g ref="char:EOLhyphen"/>cles or without; if Pancakes may be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at lawfully on a<g ref="char:EOLhyphen"/>ny other day than on <hi>Shrove-monday</hi> or <hi>Shrove tueſday;</hi> whether my Lady may eat Butter with her Eggs, or have her Poſſet turn'd with Lemon or Ale; whether a Lawyer with a ſafe Conſcience may take double ſees; and ma<g ref="char:EOLhyphen"/>ny other weighty matters fit for an Almanack makers obſervation.</p>
+               <p>But to come to the purpoſe, and tell you when theſe Eclipſes will happen; for if we do not that, it is to no more purpoſe to tell ye the number of them, than it is to think to find truth in a Bawd, or honeſty in a Horſe-cour<g ref="char:EOLhyphen"/>ſer; though ſuch things are not impoſſible, but very rare.</p>
+               <p>The firſt then of theſe is a <hi>Solar</hi> Eclipſe, or (to ſpeak to the capacity of my Country Reader) an Eclipſe of the <hi>Sun,</hi> which will happen on the 17 Day of <hi>January,</hi> about 13 minutes paſt three of the Clock in the afternoon. It is
+<pb facs="tcp:55895:3"/>in the eighth degree of <hi>Aquarius,</hi> and if the Air be ſe<g ref="char:EOLhyphen"/>rene and clear, it may be ſeen with us in <hi>England;</hi> there will be about 9 Digits or parts of the <hi>Suns</hi> body obſcured, ſay ſome of our Aſs-trologers: <hi>Argel</hi> ſays, that there will be 10 parts and a half, or 10 Digits and 30 minutes of his body Eclipſed; now which of them ſays trueſt, for my own part I cannot tell, for as yet I am not thoroughly convinced of the difference betwixt an untruth and a lie.</p>
+               <p>
+                  <hi>Dragmatus</hi> the Diagotian Stigmatiſt in his treatiſe of the antiquity of Shapparoons and careleſs Bawds, ſays, that when ſuch differences ariſe betwixt Aſs-trologers, it ſigni<g ref="char:EOLhyphen"/>fies, that the price of Sprats, <hi>Jeruſalem</hi> Artichoaks, and <hi>Holland</hi> Cheeſe will be very much encreaſed; the like di<g ref="char:EOLhyphen"/>viſion happened in the beginning of the <hi>Rump Rebellion,</hi> when the ſcarcity grew ſo great that the Brethren Botch<g ref="char:EOLhyphen"/>ers, and ſuch poor zealous Saints as earn'd but five groats a Week under a ſtall, by ſinging Pſalms and drawing up of holes, being they could not live of their vocation, were fain to leave it off, and turn Teachers and Prophets.</p>
+               <p>But to proceed, the ſecond Eclipſe will be of the Moon, and happens on the firſt day of <hi>February</hi> about three of the Clock in the afternoon; but it being then an hour and 44 Minutes before the ſetting of the Sun, the reful<g ref="char:EOLhyphen"/>gency of that Superiour Planet, will cauſe that the de<g ref="char:EOLhyphen"/>fect of the Moon cannot be ſeen in our Engliſh Horizon. This Eclipſe is celebrated in the twenty third degree of <hi>Le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> or the <hi>Lyon,</hi> a martial warlike ſign, and may pro<g ref="char:EOLhyphen"/>duce ſome drunken brawls and quarels in thoſe Inns and Alehouſes who have the ſigns of the white or red Lyon.</p>
+               <p>This being a feminine Eclipſe, ſhall have great influence over womens tongues, inſomuch that ſome Women ſhall have more and ſtranger tongues than ever <hi>Babel</hi> had to tell its ruins; <hi>viz,</hi> a lying tongue, a liſping tongue, a long tongue, a lawleſs tongue, a loud tongue, and a liquo<g ref="char:EOLhyphen"/>riſh tongue, but never a true one. <hi>Jupiter</hi> domineers in the tenth houſe, this will cauſe great ambition, ſome men ſhall be ambitious to get them handſome Wives, and thoſe Wives ſhall be ambitious to make their Huſbands Cuck<g ref="char:EOLhyphen"/>olds.
+<pb facs="tcp:55895:3"/>olds. This ambition ſhall alſo be predominant in vulgar and inferiour ſpirits, like <hi>Heroſtratus</hi> who to get himſelf a name, burnt with wild-fire the famous Temple of <hi>Diana</hi> at <hi>Epheſus,</hi> accounted one of the ſeven wonders of the World. Nay, I knew one ſo deſirous of this ridiculous fame, that he cauſed his name to be inſcribed on a ſmall-Bear Pitcher, which cauſed my Muſe, to correct this idle folly of his, thus to expreſs her ſelf:</p>
+               <lg>
+                  <l>
+                     <hi>How greedy ſome men are of idle fame,</hi>
+                  </l>
+                  <l>
+                     <hi>That they on Pitchers will inſcribe their name,</hi>
+                  </l>
+                  <l>
+                     <hi>As if the Hangman ſhould ambitious be,</hi>
+                  </l>
+                  <l>
+                     <hi>That he is Headſman of his faculty;</hi>
+                  </l>
+                  <l>
+                     <hi>Vintners, their names on Wine-pots do appear,</hi>
+                  </l>
+                  <l>
+                     <hi>But his ambition only was ſmall Beer;</hi>
+                  </l>
+                  <l>
+                     <hi>Such as your Plough-boys uſe, when in that caſe</hi>
+                  </l>
+                  <l>
+                     <hi>They to their Teams do whiſtle</hi> Chevy-chaſe;</l>
+                  <l>
+                     <hi>Alas, poor fool, 'twill do thee greater fame,</hi>
+                  </l>
+                  <l>
+                     <hi>In Ballad-rhime to eterniſe thy name.</hi>
+                  </l>
+               </lg>
+               <p>The third and laſt of this years Eclipſes, will be like<g ref="char:EOLhyphen"/>wiſe of the Moon, and will happen on the 28 day of <hi>Ju<g ref="char:EOLhyphen"/>ly,</hi> about eight of the clock in the forenoon, in the 14 de<g ref="char:EOLhyphen"/>gree of <hi>Aquarius.</hi> Now this Eclipſe cannot poſſibly be ſeen of us in <hi>England,</hi> becauſe at that time the earth in<g ref="char:EOLhyphen"/>terpoſeth betwixt the body of the Sun and her, and the earth not being ſo tranſparent as Cryſtal, you can<g ref="char:EOLhyphen"/>not ſee thorough it, although you have on your noſe a pair of ſpectacles.</p>
+               <p>Now to give you my Aſſ-trological judgment on this E<g ref="char:EOLhyphen"/>clipſe, it portends a great deluge and inundation of Kna<g ref="char:EOLhyphen"/>very, new inventions and ſtratagems for the further exal<g ref="char:EOLhyphen"/>tation of Legerdemaine in cheating, and that to ſuch a high pitch of perfection, that were <hi>Mall Cutpurſe, alias</hi> Mrs. <hi>Frith</hi> alive, ſhe would be quite put down in her own art, as a Bucket is put down a Well, or a School-boy puts down his Hoſe when he is about to be whipt. Theſe kind of fellows</p>
+               <lg>
+                  <l>
+                     <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> live as merry as the days are long,</hi>
+                  </l>
+                  <l>
+                     <hi>In ſcorn of</hi> Tyburn, <hi>or the Ropes ding dong;</hi>
+                  </l>
+                  <pb facs="tcp:55895:4"/>
+                  <l>
+                     <hi>But often times it is their hap to wear,</hi>
+                  </l>
+                  <l>
+                     <hi>A riding knot an inch below their ear;</hi>
+                  </l>
+                  <l>
+                     <hi>When as they come to take their laſt degree.</hi>
+                  </l>
+                  <l>Newgate <hi>their Hall and made at</hi> Tyburn <hi>free.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Venus</hi> is in her exaltation, this Prognoſticate, great la<g ref="char:EOLhyphen"/>ſciviouſneſs, dancing naked, (let ſome people beware, I do not put down their names in my next years Alma<g ref="char:EOLhyphen"/>nack) ſome ſhall be very forward to kiſs other mens Wives in private, that their own Wives may not ſee them; and their Wives ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e as forward to kiſs other men, ſo that it be not in ſight of their husbands; this in<g ref="char:EOLhyphen"/>deed is a good way to avoid jealouſie, but in my opinion far better is the cuſtom uſed in <hi>Weſt friezland,</hi> of which Mr. <hi>Moryſon</hi> in his Itinerary or Book of Travels, thus writes.</p>
+               <p>
+                  <hi>I remember</hi> (ſaith he) <hi>that having been at Sea in a great ſtorm of wind, thunder, and lightning, about the month of</hi> November, <hi>being very weary and ſaid; I landed a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kam <hi>in</hi> Weſt friezland, <hi>where at that time ſome young Gentle<g ref="char:EOLhyphen"/>women of that Country, paſſing thorough that City towards</hi> Groning, <hi>according to the faſhion of thoſe parts, we did eat at an ordinary Table, and after ſupper ſate down by the five, drinking one to the other; where after our ſtorm at Sea, the cuſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me of</hi> Friezland <hi>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mewhat recreate us: For if a Woman drink to a Man the cuſtom is, that ſhe muſt bring him th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cup and kiſs h m, he not moving his feet nor ſcarcely his head to meet her; and Men d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inking to them are tyed to the like by cuſtome A ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anger w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uld at firſt ſight marvel at this cuſtome, and more eſpecially that their very Husbands ſhould take it for a diſgrace, and be apt to quarrel with a Man for omitting of this ceremony towards their Wives, yet they interpret this omiſſion as if they judged their Wives to be ſo foul or infamous, or at leaſt baſe, as they thought them un<g ref="char:EOLhyphen"/>worthy of that courteſie.</hi> This cuſtome <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s like to our drink<g ref="char:EOLhyphen"/>ing of a Health with a Gun amongſt us in <hi>England.</hi>
+               </p>
+               <p>In this year alſo there will happen in the Months of <hi>Ja<g ref="char:EOLhyphen"/>nuary and May,</hi> two eminent Conjunctions of <hi>Saturn</hi> and <hi>Jupiter,</hi> the two ſuperiour Planets in the fiery ſign <hi>Leo,</hi> and theſe are the Conjunctions of Heaven; but we
+<pb facs="tcp:55895:4"/>ſhall have more malevolent Conjunctions on Earth; as when an Extortioner and a Broaker are in Conjunction to cheat men of their Eſtates, the one hunts for the prey, the other ſeiſes it, and both devour it. In reſpect of theſe our Country cheats are nothing comparable: He who in the Country commences Doctor in Knavery, is in the City but a Freſhman or Sophiſter.</p>
+               <lg>
+                  <l>
+                     <hi>Craft there, may here again be ſet to School,</hi>
+                  </l>
+                  <l>
+                     <hi>A Country knave oft proves a City fool.</hi>
+                  </l>
+               </lg>
+               <p>Two more very eminent Conjunctions will operate this year, <hi>viz.</hi> a Conjunction betwixt Rogues and Whores, and a Conjunction betwixt Cut purſes and Pick pockets, this will produce great profit to Chirurgeons, as as alſo to <hi>Jack Ketch</hi> the Squire of the Hempen nooſe,</p>
+               <lg>
+                  <l>
+                     <hi>Who by his art will give them ſuch a check,</hi>
+                  </l>
+                  <l>
+                     <hi>They ſhall be hanged all but head and neck.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Of the four Quarters of the Year,</head>
+               <div n="spring" type="quarter">
+                  <head>and firſt of the Spring</head>
+                  <p>The Spring Quarter beginneth always on the 10 Day of <hi>March,</hi> though many times you may feel Winter ſtill at your fingers ends, when the froſt and ſnow putteth you in mind to make uſe of your Gloves; yet however Aſs<g ref="char:EOLhyphen"/>trologers will have it to begin then <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecauſe at that time the Sun entereth into the firſt point of <hi>Aries,</hi> making the Days and Nights equal, twelve hours wherein to work, and twelve hours to lye a Bed in.</p>
+                  <p>In this Quarter if you walk abroad the Fields, you may hear both the Nightingal and the Cuckow ſing; and if you be a married man, you may judge which of them is the pleaſanteſt muſick. In this quarter alſo will be a great cry about <hi>London</hi> ſtreets of Macker<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l, and they are very good victuals if they be well butter'd. Veal and Lamb will be now in ſeaſon, and men ſhall be much addicted to the drinking of <hi>Coffee,</hi> otherwiſe called by the name of <hi>Ninny broth,</hi> ſold at the <hi>Turks head</hi> in <hi>Piſs<g ref="char:EOLhyphen"/>pot-lane;</hi> where alſo is ſold divers other liquors, <hi>viz. Tea,</hi> and <hi>Aromatick</hi> for the ſweet tooth'd Gentlemen; <hi>Be<g ref="char:EOLhyphen"/>tony</hi>
+                     <pb facs="tcp:55895:5"/>and <hi>Roſade</hi> for the addle headed Cuſtomer, Back-re<g ref="char:EOLhyphen"/>cruiting <hi>Chocalet</hi> for the Conſumptive Gallant, <hi>Hereford-ſhire Redſtreak</hi> made of rotten Apples at the <hi>Three-Cranes,</hi> true <hi>Brumſwick Mum</hi> brew'd at <hi>Saint Katherines,</hi> and Ale in penny Mugs not ſo big as a Taylors thimble.</p>
+                  <p>This is the moſt pleaſant Quarter of all the four, both for the temperateneſs of the Weather, the wholeſome<g ref="char:EOLhyphen"/>neſs of the Air, and the delightfulneſs of the Fields. In it the aged feel a kind of youth, and youth the ſpirit full of life: The Beggars do now begin their perambula<g ref="char:EOLhyphen"/>tion, invited thereunto by the Muſick of the woody Choriſters; and the Merchant ſetteth forth on long voy<g ref="char:EOLhyphen"/>ages, to bring home Commodities from remote Countrys:</p>
+                  <lg>
+                     <l>
+                        <hi>Croſſing the torrid and the frozen Zone,</hi>
+                     </l>
+                     <l>
+                        <hi>To bring commodities to</hi> England <hi>home:</hi>
+                     </l>
+                     <l>
+                        <hi>Midſt Rocks and ſwallowing Gulphs their way is made,</hi>
+                     </l>
+                     <l>
+                        <hi>For to enrich themſelves by gainful Trade.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="summer" type="quarter">
+                  <head>Summer.</head>
+                  <p>Summer, the ſecond Quarter of the year, beginneth on the 11<hi rend="sup">th</hi> Day of <hi>June,</hi> and comes after the Spring, as green Peaſe come after Mackarel, or a great Belly after Marriage. This Quarter is ſo hot that it makes the Coun<g ref="char:EOLhyphen"/>try man leave of his Jerkin, and young men and maids ſwear at making of H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y: the fat Conſciences of divers men ſhall be melted away into nothing: nor ſhall the Watermen need to fear the <hi>Thames</hi> being frozen over all this Quarter. The fleas and flys ſhall be very numerous, and Gulls and Woodcocks ſhall ſwarm about the ſtreets thicker than Butterflies at <hi>Chriſtmas.</hi>
+                  </p>
+                  <p>This Quarter will be very hot, which will cauſe peo<g ref="char:EOLhyphen"/>ple to be very thirſty, ſo that there ſhall be great em<g ref="char:EOLhyphen"/>ployment for <hi>Noggins, Whiſkins, Piggins, Grinzies, Tankards,</hi> and <hi>Cans</hi> from a Pottle to a Pint, from a Pint to a Gill: alſo of <hi>Black Jacks</hi> and <hi>Bombards</hi> much uſed at Court, which when the <hi>French men</hi> firſt ſaw, they report<g ref="char:EOLhyphen"/>ed at their return into their Country, <hi>That the Engliſh men drunk out of their Boots.</hi> But let me adviſe thee this Quar<g ref="char:EOLhyphen"/>ter to have a ſpecial care of two things, exceſſive Drink<g ref="char:EOLhyphen"/>ing, and extreme Wenching.</p>
+                  <pb facs="tcp:55895:5"/>
+                  <lg>
+                     <l>
+                        <hi>Doat neither upon Women, nor on Wine,</hi>
+                     </l>
+                     <l>
+                        <hi>For to thy hurt th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> both alike incline:</hi>
+                     </l>
+                     <l>Venns <hi>thy ſtrength and</hi> Bacchus <hi>with his ſweet</hi>
+                     </l>
+                     <l>
+                        <hi>And pleaſant Grapes debilitates thy feet:</hi>
+                     </l>
+                     <l>
+                        <hi>Blind love will blabb what he in ſecret did,</hi>
+                     </l>
+                     <l>
+                        <hi>In giddy wine there's nothing can be hid;</hi>
+                     </l>
+                     <l>
+                        <hi>When thou with both, or either art poſſeſt,</hi>
+                     </l>
+                     <l>
+                        <hi>Shame, Honesty, and Fear, all fly thy breſt:</hi>
+                     </l>
+                     <l>
+                        <hi>In Fetters</hi> Venus <hi>keep, Gives</hi> Bacchus <hi>ty'd,</hi>
+                     </l>
+                     <l>
+                        <hi>Leſt by their free gifts thou beeſt damnified.</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>ſe Wine for thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſt,</hi> Venus <hi>for lawful ſeed,</hi>
+                     </l>
+                     <l>
+                        <hi>To paſs thoſe limits, may thy danger breed.</hi>
+                     </l>
+                  </lg>
+                  <p>This Quarter continues from the 11<hi rend="sup">th</hi> of <hi>June,</hi> all hot <hi>July</hi> and fruitful <hi>Auguſt,</hi> till the 12<hi rend="sup">th</hi> of <hi>September,</hi> when the Days and Nights will be again of equal length.</p>
+               </div>
+               <div n="autumn" type="quarter">
+                  <head>Autumn.</head>
+                  <p>
+                     <hi>A<g ref="char:V">Ʋ</g>rumn,</hi> which by ſome learned Antiquaries is de<g ref="char:EOLhyphen"/>rived from Apple time, is the third Quarter of the Year, and beginneth on the 12 Day of <hi>September,</hi> the Sun then entering the Equinoctial Sign <hi>Libra;</hi> and now the Days grow ſhorter than the Nights, and the wea<g ref="char:EOLhyphen"/>ther cooler than before, therefore now the Body is in a fit temper for a glaſs of good wine, be it either <hi>Red. White, Claret, Granes, High Country, Malligo, Charnio, Sherry, Ganary, Palerno, Frontiniack Peeter-ſee-mee, Vino deriba dania, Baſtard, Raſpis, Tent, Alligant, Melniſee; Muſcadine, Rheniſh</hi> or <hi>Backrag:</hi> Or if it be Wine of the Vintners own making, as <hi>Ippocras</hi> White or Red, Boxt <hi>Alligant</hi> with Sugar and Eggs, <hi>Stitch-broth</hi> brew'd with Roſewater <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sugar, <hi>Burn'd Sack, Mull'd Wine, Tomlons, Balderdaſh,</hi> &amp;c. any of theſe may ſerve a ſingle perſon, and all of them content a great Company.</p>
+                  <p>As for the temper of this Quarter, it is like to be as were <hi>Autumns</hi> in former years; Nightingals ſhall ſing. Cocks crow, Kine lowe, Sheep bleate, Sparrows chirp, and Dogs bark as they uſed to do: If there be ſtore of Apples growing, there will be great probability of much Cider to be made; and plenty of Nuts prognoſticates
+<pb facs="tcp:55895:6"/>plenty, of Baſtards, occaſioned by young Men and Laſſes meeting in the Woods to gather them.</p>
+                  <lg>
+                     <l>
+                        <hi>For there is few what e're they be,</hi>
+                     </l>
+                     <l>
+                        <hi>But-yield to opportunity.</hi>
+                     </l>
+                  </lg>
+                  <p>With the end of this Quarter endeth the Pride of Sum<g ref="char:EOLhyphen"/>mer, the Earth inſtead of a Mantle of Green, then put<g ref="char:EOLhyphen"/>ting on a Veſt of Snow.</p>
+                  <lg>
+                     <l>
+                        <hi>The Fields are now bereaved of their ſplendor,</hi>
+                     </l>
+                     <l>
+                        <hi>Which lately were as brave as</hi> Owen-Glender</l>
+                     <l>
+                        <hi>A Prince of</hi> Wales, <hi>his Countrys Defender;</hi>
+                     </l>
+                     <l>
+                        <hi>Who of their Priviledges was ſo tender,</hi>
+                     </l>
+                     <l>
+                        <hi>That he his valour thereunto would render,</hi>
+                     </l>
+                     <l>
+                        <hi>And of his Countries freedom be a mender,</hi>
+                     </l>
+                     <l>
+                        <hi>But was orethrown, and ſo became its ender.</hi>
+                     </l>
+                  </lg>
+                  <p>This Quarter continues to the 11 of <hi>December,</hi> and then comes in cold ſhivering Winter, which makes men of all perſwaſions to turn Quakers. Of this third Quar<g ref="char:EOLhyphen"/>ter of the Year thus writes the Poet:</p>
+                  <lg>
+                     <l>
+                        <hi>The Evening of the Year, when the threſht ſheaf</hi>
+                     </l>
+                     <l>
+                        <hi>Loſeth its grain, and every Tree its leaf;</hi>
+                     </l>
+                     <l>
+                        <hi>The Choriſters o'th Wood do ceaſe their Notes</hi>
+                     </l>
+                     <l>
+                        <hi>And ſtately Forreſts don their yellow coats.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="winter" type="quarter">
+                  <head>Winter</head>
+                  <p>Winter the laſt and worſt Quarter of all the four, becauſe it conſumes what was gotten in the former three; begins <hi>December</hi> the 11. the Sun then entering into <hi>Capricorn,</hi> making the ſhorteſt day to all on this fide the Æquator, and ſo by conſequence the longeſt Night. Should we now P<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>noſticate hot ſoultry Weather, we might chance to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar out in our Prognoſtications as was the Quaker when his Wife <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ook him kiſſing his Maid, ſhe having on her Dames Waſtecoat, which made the Q<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ker thus to excuſe himſelf to his Wife, that he was miſtaken, <hi>For that</hi> Hagar <hi>had gotten on</hi> Saralis <hi>royment;</hi> but on the contrary, ſhould we predict Froſt, Snow, Hail, and cold weather, it would be as fit for the ſeaſon as a Pancake for <hi>Shrove<g ref="char:EOLhyphen"/>tueſday,</hi> a Tanſy for <hi>Eaſter,</hi> a Morris for <hi>May-day,</hi> a minc'd Rye for <hi>Chriſtmas,</hi> a Candle for the Candleſtick, a Nail
+<pb facs="tcp:55895:6"/>for the hole or a Nuns lips for a Fryers mouth.</p>
+                  <lg>
+                     <l>
+                        <hi>Now froſt doth caſt an icie weam</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>pon the Lakes and Cryſtal ſtream,</hi>
+                     </l>
+                     <l>
+                        <hi>And every honey-headed twig</hi>
+                     </l>
+                     <l>
+                        <hi>Wears his Snowy Periwig.</hi>
+                     </l>
+                  </lg>
+                  <p>Now men drink Ale by the fires ſide, which ſhall make them have all the Coat colours of a Drunkard, <hi>viz.</hi> ſan<g ref="char:EOLhyphen"/>guine, purple, crimſon, copper, and carnation in their countenances: but this will coſt money, of which if they be without, they muſt (if they can) borrow money of a pawn of wax and parchment.</p>
+                  <lg>
+                     <l>
+                        <hi>But of few men you now can coin command,</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>nleſs it be upon a tye of land.</hi>
+                     </l>
+                  </lg>
+                  <p>Four ſorts of Knaves ſhall be much employed this Quar<g ref="char:EOLhyphen"/>ter, <hi>viz.</hi> the Knave of Hearts; the Knave of Spades the Knave of Clubs, and the Knave of Diamonds; and a great many cheating Knaves ſhall be employed in the u<g ref="char:EOLhyphen"/>ſing of them; but there are Knaves of all ſorts, as there are Jades of all colours; and he that riſes be times and walks <hi>London</hi> Streets a whole Day, 'tis a thouſand pound to a Nu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-ſhell but he may chance to meet with one of them.</p>
+                  <lg>
+                     <l>
+                        <hi>For though the Country be not wholly free,</hi>
+                     </l>
+                     <l>
+                        <hi>Yet there's no doubt ſome Knaves i' th' City be.</hi>
+                     </l>
+                  </lg>
+                  <p>This cold comfordeſs Quarter laſts three Months <hi>viz.</hi> moſt part of ſnowy <hi>December,</hi> all cold <hi>January</hi> and dirty <hi>February,</hi> and ſome part of bluſtering <hi>March,</hi> during which time the Sun paſſes through the three Celeſtial ſigns of <hi>Capricorn, Aquarius,</hi> and <hi>Piſces;</hi> or if you will, the <hi>Goat,</hi> the <hi>Tankard bearer</hi> and <hi>Fiſhes,</hi> and then enters into the Equinoctial Sign <hi>Aries.</hi>
+                  </p>
+                  <lg>
+                     <l>
+                        <hi>That pleaſant time of year when balmy ſhowers,</hi>
+                     </l>
+                     <l>
+                        <hi>Deck the ſoft breaſt of fragant Meads with Flowers.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>ENdy mion <hi>that had</hi> Luna <hi>'bout the middle,</hi>
+                  </l>
+                  <l>
+                     <hi>Could none of all her myſteries unriddle;</hi>
+                  </l>
+                  <l>
+                     <hi>Like to this Scheme, wherein you may behold</hi>
+                  </l>
+                  <l>
+                     <hi>Such things as were by any other told;</hi>
+                  </l>
+               </lg>
+               <figure>
+                  <head>The Aſs-trological Jim-crack or fortune-telling Scheme.</head>
+               </figure>
+               <lg>
+                  <l>
+                     <hi>And though ſome ſay, that we may ſee as far</hi>
+                  </l>
+                  <l>
+                     <hi>Into a nether Milſtone as a Star,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet i'le maintain that all our Prophecies</hi>
+                  </l>
+                  <l>
+                     <hi>Are either very true, (or arrant lies.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Now though we write not with a beam of Noon,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor have no Letter from the man i'th Moon;</hi>
+                  </l>
+                  <l>
+                     <hi>Yet i'le affirm that our intelligence</hi>
+                  </l>
+                  <l>
+                     <hi>As true as theirs that ſay they hav't from thence.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Next though that I do here twelve houſes name,</hi>
+                  </l>
+                  <l>
+                     <hi>I nere had foot of land within the ſame;</hi>
+                  </l>
+                  <l>
+                     <hi>And ſhould I want a Houſe to keep me dry,</hi>
+                  </l>
+                  <pb facs="tcp:55895:7"/>
+                  <l>
+                     <hi>For all theſe twelve, I in the ſtreets might lye:</hi>
+                  </l>
+                  <l>
+                     <hi>They in that caſe do ſtand in little ſtead,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet each of them a houſe is o're our head;</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis true that they are houſes in the Air,</hi>
+                  </l>
+                  <l>
+                     <hi>And though we know their</hi> Signs, <hi>we can't come there:</hi>
+                  </l>
+                  <l>
+                     <hi>But my predictions better to diſcloſe,</hi>
+                  </l>
+                  <l>
+                     <hi>I'le leave off Verſe, and turn my Pen to Proſe.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Jupiter</hi> is Lord of the tenth Houſe, this Prognoſticates ill luck for Uſurers, when their Debtors break, and they for grief thereof hang themſelves. <hi>Venus</hi> is in her exaltations, this is as plain as the noſe on a mans face that Beer will be but two pence a Flaggon; for though Malt ſhould be dear, yet the Brewers have a knack to make it ſo much the ſmaller. <hi>Mars</hi> is ſextile in the fi<g ref="char:EOLhyphen"/>ery <hi>Trigon,</hi> Lo ye now, if ſome Women be not proud I never ſaw the like on't. <hi>Sol</hi> is retrograde, good wits will be applauded more than rewarded, and Canary will be in higher eſteem than ſmall Beer. The <hi>Moon</hi> is in a Trine with <hi>Venus,</hi> Milk will be apt to be burnt to, to the great endangering of making good Poſſets. <hi>Mercury</hi> is well po<g ref="char:EOLhyphen"/>ſited, therefore drink <hi>Brandy</hi> and it will make you piſs clear. About the <hi>Dog days Saturn</hi> is in oppoſition to <hi>Venus,</hi> when it will be naught to get Children, becauſe they will be apt to have ill-favour'd faces, as the learned <hi>Spencer</hi> hath it in his <hi>Fairy Queen.</hi>
+               </p>
+               <lg>
+                  <l>— <hi>
+                        <g ref="char:V">Ʋ</g>nder ill diſpoſed Skies,</hi>
+                  </l>
+                  <l>
+                     <hi>When ſullen</hi> Saturn <hi>ſits i'th houſe of obloquies.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Mars</hi> in the houſe of <hi>Sagittarius</hi> ſignifies a great year of fruit, that Apples will be plentifuller than Oranges. <hi>Mercury</hi> in <hi>Leo</hi> denotes the ſtrangeſt things poſſible, but that there is no reaſon in Love; how that Deputies of Wards ſhall marry their Cook-maids, Aldermans Widows match with their Turn-broaches, and great Ladies mate with their Horſe-keepers. <hi>Luna</hi> in reception with <hi>Taurus,</hi> young Wenches Prayers ſhall be, that God would ſend them handſome, rich, luſty Husbands, fine Cloaths, good Victuals, ſtrong Drink, long Sleeps, and no work. <hi>Jupiter</hi> dignified in the tenth houſe, denotes a great plenty of
+<pb facs="tcp:55895:8" rendition="simple:additions"/>Naturals, Changelings, Fops, Bubbles, Wiſe-acres, Coddle-brains, Shuttle-skuls, Paper-skuls, Half wits, Simpletons, Ninnihammers, <hi>&amp;c.</hi> Faſting ſhall be much uſed where people have no Victuals. <hi>Mars</hi> is in oppoſition to <hi>Mercury,</hi> this will cauſe many oppoſitions on Earth, Qua<g ref="char:EOLhyphen"/>kers in oppoſition to Church-Government.</p>
+            </div>
+            <div type="part">
+               <head>The twelve Signs of the Zodiack.</head>
+               <lg n="♈">
+                  <head>♈</head>
+                  <l>Aries <hi>the</hi> Ram <hi>which bore the Golden Fleece,</hi>
+                  </l>
+                  <l>
+                     <hi>That</hi> Jaſon <hi>brought from</hi> Colchos <hi>unto</hi> Greece;</l>
+                  <l>
+                     <hi>The</hi> Sun <hi>being in the</hi> Ram <hi>makes it out clear</hi>
+                  </l>
+                  <l>
+                     <hi>At the</hi> Ram <hi>in</hi> Smithfield <hi>you may have good Beer.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Aries</hi> or the <hi>Ram,</hi> hath Dominion over Butchers, Tan<g ref="char:EOLhyphen"/>ners, Huntſmen, Sow-gelders, Ink-horn-makers. Lant<g ref="char:EOLhyphen"/>horn-makers, Horn-book makers, and all thoſe people who deal in Horns.</p>
+               <lg n="♉">
+                  <head>♉</head>
+                  <l>Taurus <hi>the</hi> Bull, <hi>a Bull of high renown,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe Hide might make a good Aldermans Gown,</hi>
+                  </l>
+                  <l>
+                     <hi>And if they think the Hide will be too ſmall.</hi>
+                  </l>
+                  <l>
+                     <hi>Then let them take both Hide and HORNS and all.</hi>
+                  </l>
+               </lg>
+               <p>Under <hi>Taurus</hi> or the <hi>Bull</hi> are born all your Cuckolds, Wittals, Henpeckt-fellows, and Knights of the Forked Order.</p>
+               <lg n="♊">
+                  <head>♊</head>
+                  <l>Gemini <hi>doth appear to all beholders,</hi>
+                  </l>
+                  <l>
+                     <hi>To have Dominion o're the Arms and Shoulders;</hi>
+                  </l>
+                  <l>
+                     <hi>A very loving couple ſure they be,</hi>
+                  </l>
+                  <l>
+                     <hi>As Man and Wife when they in Bed agree.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Gemini</hi> or the <hi>Twins</hi> bear rule over all couples, as Man and Wife, the Circer and his Whip, the Taylor and his Thimble, the Cutpu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe and the Hangman, the Thief and the receiver, the Drunkard and the black Pot, <hi>&amp;c.</hi>
+               </p>
+               <lg n="♋">
+                  <head>♋</head>
+                  <l>
+                     <hi>The</hi> Crab <hi>or crabbed Woman does bear ſway,</hi>
+                  </l>
+                  <l>
+                     <hi>Such wives as will their Husbands not obey;</hi>
+                  </l>
+                  <l>
+                     <hi>But for ſuch crooked ribbs my counſel is,</hi>
+                  </l>
+                  <l>
+                     <hi>A Crab-tree Cudgel will not be amiſs.</hi>
+                  </l>
+               </lg>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
